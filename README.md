@@ -3,31 +3,11 @@
 Backend & Data Enthusiast | QA Automation Engineer
 
 ## 🚀 Tecnologías
-### ⚙️ Backend y Microservicios
-- C#
-- .NET
-- Arquitectura de Microservicios
-- APIs REST
-  
-### 🗄️ Bases de Datos
-- SQL Server
-- Sybase
-- MongoDB
-- Procedimientos Almacenados (Stored Procedures)
 
-### 🎨 Frontend
-- Blazor
-- HTML
-- CSS
-- Bootstrap
+| ⚙️ Backend y Microservicios | 🗄️ Bases de Datos | 🎨 Frontend |
+|---|---|---|
+| - C# <br> - .NET <br> - Arquitectura de Microservicios <br> - APIs REST | - SQL Server <br> - Sybase <br> - MongoDB <br> - Procedimientos Almacenados | - Blazor <br> - HTML <br> - CSS <br> - Bootstrap |
 
-### 🧪 Pruebas y Automatización
-- Playwright
-- TypeScript
-- Python
-
-### ⚡ DevOps y CI/CD
-- Git
-- GitHub
-- GitHub Actions
-- Pipelines de Integración y Despliegue Continuo (CI/CD)
+| 🧪 Pruebas y Automatización | ⚡ DevOps y CI/CD | |
+|---|---|---|
+| - Playwright <br> - TypeScript <br> - Python | - Git <br> - GitHub <br> - GitHub Actions <br> - Pipelines CI/CD | |
